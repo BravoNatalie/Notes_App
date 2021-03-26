@@ -38,49 +38,55 @@ functions:
   # Defines an HTTP API endpoint that calls the main function in create.js
   # - path: url path is /notes
   # - method: POST request
+  # - authorizer: authenticate using the AWS IAM role
   create:
     handler: create.main
     events:
       - http:
           path: notes
           method: post
-  
-  # Defines an HTTP API endpoint that calls the main function in get.js
-  # - path: url path is /notes/{id}
-  # - method: GET request
+          authorizer: aws_iam
+
   get:
+    # Defines an HTTP API endpoint that calls the main function in get.js
+    # - path: url path is /notes/{id}
+    # - method: GET request
     handler: get.main
     events:
       - http:
           path: notes/{id}
           method: get
-  
-  # Defines an HTTP API endpoint that calls the main function in list.js
-  # - path: url path is /notes
-  # - method: GET request
+          authorizer: aws_iam
+
   list:
+    # Defines an HTTP API endpoint that calls the main function in list.js
+    # - path: url path is /notes
+    # - method: GET request
     handler: list.main
     events:
       - http:
           path: notes
           method: get
+          authorizer: aws_iam
 
-  # Defines an HTTP API endpoint that calls the main function in update.js
-  # - path: url path is /notes/{id}
-  # - method: PUT request
   update:
+    # Defines an HTTP API endpoint that calls the main function in update.js
+    # - path: url path is /notes/{id}
+    # - method: PUT request
     handler: update.main
     events:
       - http:
           path: notes/{id}
           method: put
+          authorizer: aws_iam
 
-  # Defines an HTTP API endpoint that calls the main function in delete.js
-  # - path: url path is /notes/{id}
-  # - method: DELETE request
   delete:
+    # Defines an HTTP API endpoint that calls the main function in delete.js
+    # - path: url path is /notes/{id}
+    # - method: DELETE request
     handler: delete.main
     events:
       - http:
           path: notes/{id}
           method: delete
+          authorizer: aws_iam
