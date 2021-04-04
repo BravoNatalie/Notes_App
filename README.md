@@ -28,7 +28,7 @@
 
 ## :information_source: About
 
-The :pencil:**Papier** a simple note taking app where you can pay to store your important notes.
+:pencil:**Papier** is a simple note taking app where you can pay to store your important notes.
 
 The project was developed with the purpose of learning the serverless computing model, also known as "Functions as Service" (FaaS), and some of the technologies available in the [**Amazon AWS**](https://aws.amazon.com/) platform.
 
