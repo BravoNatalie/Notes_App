@@ -40,24 +40,20 @@ The project was developed with the purpose of learning the serverless computing 
 Check out how it looks:
 
 <p align="center">
-  <img alt="Web App"   src="https://res.cloudinary.com/nataliebravo/image/upload/v1617570403/Notes_App_github_assets/note_app_nqv0yc.gif" >
- 
-
-  <div class="row" style="display:flex">
-  <div class="column" style="flex:33.33%;padding:5px;">
-    <img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568653/Notes_App_github_assets/note_app_on_mobile_z5rfna.png" alt="home" style="width:100%;height:100%;">
-  </div>
-  <div class="column" style="flex:33.33%;padding:5px;">
-    <img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568673/Notes_App_github_assets/note_app_on_mobile3_kibhvw.png" alt="login" style="width:100%;height:100%;">
-  </div>
-  <div class="column" style="flex:33.33%;padding:5px;">
-    <img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568676/Notes_App_github_assets/note_app_on_mobile4_uhv4op.png" alt="MyNotes" style="width:100%;height:100%;">
-  </div>
-  <div class="column" style="flex:33.33%;padding:5px;">
-    <img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568680/Notes_App_github_assets/note_app_on_mobile5_hn2e2t.png" alt="Creating a note" style="width:100%;height:100%;">
-  </div>
-</div>
+  <img alt="Web App"  src="https://res.cloudinary.com/nataliebravo/image/upload/v1617570403/Notes_App_github_assets/note_app_nqv0yc.gif" style="width:140%;height:140%; />
 <p />
+
+<p align="center">
+<table style="border-collapse:collapse">
+  <tr>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568653/Notes_App_github_assets/note_app_on_mobile_z5rfna.png" width=220 height=420></td>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568673/Notes_App_github_assets/note_app_on_mobile3_kibhvw.png" width=220 height=420></td>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568676/Notes_App_github_assets/note_app_on_mobile4_uhv4op.png" width=220 height=420></td>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568680/Notes_App_github_assets/note_app_on_mobile5_hn2e2t.png" width=220 height=420></td>
+  </tr>
+ </table>
+</p>
+
 
 <a id='technologies'/>
 
