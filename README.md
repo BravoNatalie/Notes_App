@@ -46,10 +46,10 @@ Check out how it looks:
 <p align="center">
 <table style="border-collapse:collapse">
   <tr>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568653/Notes_App_github_assets/note_app_on_mobile_z5rfna.png" width=220 height=420></td>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568673/Notes_App_github_assets/note_app_on_mobile3_kibhvw.png" width=220 height=420></td>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568676/Notes_App_github_assets/note_app_on_mobile4_uhv4op.png" width=220 height=420></td>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568680/Notes_App_github_assets/note_app_on_mobile5_hn2e2t.png" width=220 height=420></td>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568653/Notes_App_github_assets/note_app_on_mobile_z5rfna.png" width=220 height=400></td>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568673/Notes_App_github_assets/note_app_on_mobile3_kibhvw.png" width=220 height=400></td>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568676/Notes_App_github_assets/note_app_on_mobile4_uhv4op.png" width=220 height=400></td>
+    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568680/Notes_App_github_assets/note_app_on_mobile5_hn2e2t.png" width=220 height=400></td>
   </tr>
  </table>
 </p>
