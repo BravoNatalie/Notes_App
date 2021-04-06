@@ -40,18 +40,13 @@ The project was developed with the purpose of learning the serverless computing 
 Check out how it looks:
 
 <p align="center">
-  <img alt="Web App"  src="https://res.cloudinary.com/nataliebravo/image/upload/v1617570403/Notes_App_github_assets/note_app_nqv0yc.gif" style="width:140%;height:140%; />
+  <img alt="Web App"  src="https://res.cloudinary.com/nataliebravo/image/upload/v1617570403/Notes_App_github_assets/note_app_nqv0yc.gif" style="width:140%;height:140%;" />
 <p />
 
 <p align="center">
-<table style="border-collapse:collapse">
-  <tr>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568653/Notes_App_github_assets/note_app_on_mobile_z5rfna.png" width=220 height=400></td>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568673/Notes_App_github_assets/note_app_on_mobile3_kibhvw.png" width=220 height=400></td>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568676/Notes_App_github_assets/note_app_on_mobile4_uhv4op.png" width=220 height=400></td>
-    <td border="none"><img src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568680/Notes_App_github_assets/note_app_on_mobile5_hn2e2t.png" width=220 height=400></td>
-  </tr>
- </table>
+  
+<img alt="mobile1" src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568653/Notes_App_github_assets/note_app_on_mobile_z5rfna.png" width=210 height=390 align="left" padding="0"/><img alt="mobile2" src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568673/Notes_App_github_assets/note_app_on_mobile3_kibhvw.png" width=210 height=390 align="left" padding="0"/><img alt="mobile3" src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568676/Notes_App_github_assets/note_app_on_mobile4_uhv4op.png" width=210 height=390 align="left" padding="0"/><img alt="mobile4" src="https://res.cloudinary.com/nataliebravo/image/upload/v1617568680/Notes_App_github_assets/note_app_on_mobile5_hn2e2t.png" width=210 height=390 align="left" padding="0"/>
+
 </p>
 
 
